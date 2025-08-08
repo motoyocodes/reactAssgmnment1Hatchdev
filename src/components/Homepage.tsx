@@ -1,7 +1,7 @@
 function Homepage() {
   return (
     <div className="homepage">
-      <img src="src/assets/images/avatar-jessica.jpeg" alt="profile-picture" />
+      <img src="/avatar-jessica.jpeg" alt="profile-picture" />
       <h2>Jessica Randall</h2>
       <h4 className="location">London, United Kingdom</h4>
       <p>"Front-end developer and avid reader."</p>
